@@ -242,7 +242,8 @@ section .information form input:hover
 }
 section .information form textarea
 {
-    width:100%;
+   max-width:890px;
+     max-height: 45vh;
     border-bottom: 2px solid yellow;
     background-color: #0d5e5e;
 }
